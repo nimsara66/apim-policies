@@ -26,6 +26,13 @@
     <packaging>bundle</packaging>
     <name>WSO2 APIM Mediation Policies - Regular Expression Guardrail</name>
 
+    <scm>
+        <connection>scm:git:git@github.com:nimsara66/apim-policies.git</connection>
+        <developerConnection>scm:git:git@github.com:nimsara66/apim-policies.git</developerConnection>
+        <url>https://github.com/nimsara66/apim-policies</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <maven.compiler.release>9</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
